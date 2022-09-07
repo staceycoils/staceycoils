@@ -10,6 +10,13 @@ Can be found playing DnD, baking or playing strategy games when offline.
 
 ___
 
+### Current Projects
+
+[MotW Companion App](https://github.com/Root-2/MonsterOfTheWeek-Companion):
+A mobile app for creating characters in the RPG system Monster of The Week. A collaberation with [Root-2](https://github.com/Root-2).
+
+___
+
 ### Tech Proficiencies
 
 Languages:  
@@ -34,6 +41,7 @@ ___
 
 Currently Learning:  
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ___
 
