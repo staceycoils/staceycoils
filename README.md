@@ -13,7 +13,7 @@ ___
 ### Current Projects
 
 [MotW Companion App](https://github.com/Root-2/MonsterOfTheWeek-Companion):
-A mobile app for creating characters in the RPG system Monster of The Week. A collaberation with [Root-2](https://github.com/Root-2).
+A mobile app for creating characters in the RPG system Monster of The Week. A collaboration with [Root-2](https://github.com/Root-2).
 
 ___
 
