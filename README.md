@@ -23,7 +23,7 @@ ___
 ### Future Projects
 
 My projects are currently decided by what I would like to pick up or learn better. Right now, this list includes:
-JQuery, Typescript, Angular, SASS, NoDQL databases, Python, Ruby, C++.
+JQuery, Typescript, Angular, SASS, NoSQL databases, Python, Ruby, C++.
 
 ___
 
